@@ -1,0 +1,454 @@
+{
+  "Sale-product": [
+    {
+      "id": "1",
+      "img": "https://larssonjennings.com/cdn/shop/files/elevated_-29_cf5250be-065c-4c30-8209-77a898c64b7b_540x.jpg?v=1722507538",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Elevate_mixedgold1_1024x1024.png?v=1722507542",
+      "title": "Boyfriend Mini Elevate Mixed Gold 31mm",
+      "price": "181.35 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "2",
+      "img": "//larssonjennings.com/cdn/shop/files/Untitleddesign_5_1024x1024.png?v=1722505965",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/zodiac_onmodel_web_def726dc-d548-4404-a6ca-14023be601a4_1024x1024.jpg?v=1722505965",
+      "title": "Zodiac Necklace Aries 18ct Gold Plated",
+      "price": "64.35 USD",
+      "category": "Jewelry"
+    },
+    {
+      "id": "3",
+      "img": "//larssonjennings.com/cdn/shop/files/BOYFRIENDMIXEDGOLD_9fb1b437-e386-4480-b309-c80260725d92_1024x1024.png?v=1722509486",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/elevated_-8_1024x1024.jpg?v=1722509486",
+      "title": "Boyfriend Classic Mixed Gold 40mm",
+      "price": "99.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "4",
+      "img": "//larssonjennings.com/cdn/shop/files/Untitleddesign_34_1024x1024.png?v=1722505714",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/Birtstone_April_Aries_4_7f63cd92-0755-4b5c-be54-82de57caae70_1024x1024.jpg?v=1722505714",
+      "title": "Birthstone Bracelet April 18ct Gold Plated",
+      "price": "83.85 USD",
+      "category": "Jewelry"
+    },
+    {
+      "id": "5",
+      "img": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Lumous_MixedGold_3_1024x1024.jpg?v=1722505109",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/boyfriend_mini_lumous-mixed2_web_1024x1024.jpg?v=1722505109",
+      "title": "Boyfriend Mini Lumous Mixed Gold 31mm",
+      "price": "200.85 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "6",
+      "img": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Lumous_GoldWhite_3_1024x1024.jpg?v=1722505134",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/boyfriend_mini_lumous-goldwhite1_web_1024x1024.jpg?v=1722505134",
+      "title": "Boyfriend Mini Lumous Mixed Gold Green 31mm",
+      "price": "309.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "9",
+      "img": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Lumous_Silver_3_1024x1024.jpg?v=1722505148",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/boyfriend_mini_lumous-silver1_web_1024x1024.jpg?v=1722505148",
+      "title": "Boyfriend Mini Lumous Silver 31mm",
+      "price": "309.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "10",
+      "img": "//larssonjennings.com/cdn/shop/files/Untitleddesign_4_1024x1024.png?v=1722505947",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/zodiac_onmodel_web-9_9be9fd5b-5a7f-4bc4-b4ac-9e1ead230e44_1024x1024.jpg?v=1722505948",
+      "title": "Zodiac Necklace Taurus 18ct Gold Plated",
+      "price": "99.00 USD",
+      "category": "Jewelry"
+    },
+    {
+      "id": "11",
+      "img": "//larssonjennings.com/cdn/shop/files/Untitleddesign_35_1024x1024.png?v=1722505729",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/Birtstone_May_Taurus_1_5492d535-0be7-433e-b721-2fe8b5149c38_1024x1024.jpg?v=1722505729",
+      "title": "Birthstone Bracelet May 18ct Gold Plated",
+      "price": "99.00 USD",
+      "category": "Jewelry"
+    },
+    {
+      "id": "12",
+      "img": "https://larssonjennings.com/cdn/shop/files/Lil_Bracelet1_044014e0-e0b9-4d99-81ed-2a3e5c7440e2_1024x1024.png?v=1722507806",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Lil_Bracelet_2_86e447a1-0166-4cfc-b3a3-80660935753c_1024x1024.jpg?v=1722507806",
+      "title": "Birthstone Bracelet May 18ct Gold Plated",
+      "price": "83.85 USD",
+      "category": "Jewelry"
+    },
+    {
+      "id": "13",
+      "img": "https://larssonjennings.com/cdn/shop/files/MINIBOYFRIENDGOLDGOLD_30f2315f-e17e-4870-b863-6df8e752bcdf_1024x1024.png?v=1722508695",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/15_3b891ece-3629-4222-9c5f-a35b9d2dcef2_1024x1024.jpg?v=1722508695",
+      "title": "Boyfriend Mini Classic Gold Gold 31mm",
+      "price": "187.85 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "14",
+      "img": "https://larssonjennings.com/cdn/shop/files/MINIBOYFRIENDGOLD_8ca8ea69-45fa-4417-8cda-d4f6df0e1979_1024x1024.png?v=1722508714",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/9_558ff029-2241-47ac-b696-101799b05bef_1024x1024.jpg?v=1722508714",
+      "title": "Boyfriend Mini Classic Gold White 31mm",
+      "price": "187.85 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "15",
+      "img": "https://larssonjennings.com/cdn/shop/files/elevated_-17_5a114c61-07ad-4c68-bdd4-b85dd7ddd31c_1024x1024.jpg?v=1722507450",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Vivid_Elevate_gold2_1056b543-94bd-4b56-ab2b-bcea16b3a9b7_1024x1024.jpg?v=1722507450",
+      "title": "Vivid Elevate Gold White 32mm",
+      "price": "148.85 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "16",
+      "img": "https://larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Elevate_gold1_2_2b9ded34-eaf9-470f-8b9c-cbff6d038c07_1024x1024.png?v=1722507572",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/elevated_-32_8f829840-4664-484d-b314-a3de0de58164_1024x1024.jpg?v=1722507572",
+      "title": "Boyfriend Mini Elevate Gold White 31mm",
+      "price": "187.85 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "17",
+      "img": "https://larssonjennings.com/cdn/shop/files/MINIBOYFRIENDMIXEDGOLD_c26cb3fd-2eef-413f-81e1-199509c6a676_1024x1024.png?v=1722509416",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/elevated_-4_48059a5f-3282-4cbc-8634-60c561126188_1024x1024.jpg?v=1722509416",
+      "title": "Boyfriend Mini Classic Mixed Gold 31mm",
+      "price": "289.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "18",
+      "img": "https://larssonjennings.com/cdn/shop/files/MINIBOYFRIENDGOLD_8ca8ea69-45fa-4417-8cda-d4f6df0e1979_1024x1024.png?v=1722508714",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/9_558ff029-2241-47ac-b696-101799b05bef_1024x1024.jpg?v=1722508714",
+      "title": "Boyfriend Mini Classic Gold White 31mm",
+      "price": "289.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "19",
+      "img": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDMINIWRAP_1bd05534-37e8-41e5-91be-b6d77cab347d_1024x1024.png?v=1722508666",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/4_516f5f14-cc7c-473b-9cdb-ccc65b8bca5c_1024x1024.jpg?v=1722508666",
+      "title": "Boyfriend Mini Wrap Gold White 31mm",
+      "price": "289.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "20",
+      "img": "https://larssonjennings.com/cdn/shop/files/MINIBOYFRIENDGOLDGOLD_30f2315f-e17e-4870-b863-6df8e752bcdf_1024x1024.png?v=1722508695",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/15_3b891ece-3629-4222-9c5f-a35b9d2dcef2_1024x1024.jpg?v=1722508695",
+      "title": "Boyfriend Mini Classic Gold Gold 31mm",
+      "price": "289.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "21",
+      "img": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDMIXEDGOLD_9fb1b437-e386-4480-b309-c80260725d92_1024x1024.png?v=1722509486",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/elevated_-8_1024x1024.jpg?v=1722509486",
+      "title": "Boyfriend Classic Mixed Gold 40mm",
+      "price": "279.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "22",
+      "img": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDGOLD_2_c9780391-3eed-4636-b8d0-3a614ef51e7a_1024x1024.png?v=1722508643",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDGOLD_3_d2e6eda0-cbbc-40a4-a8c0-9b5bef1a514e_1024x1024.png?v=1722508643",
+      "title": "Boyfriend Classic Gold White 40mm",
+      "price": "279.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "23",
+      "img": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDMIXEDROSEGOLD_080d22ff-097c-404c-98dd-eeb2e8c219cd_1024x1024.png?v=1722509473",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/2copy3_1024x1024.jpg?v=1722509473",
+      "title": "Boyfriend Classic Mixed Rose Gold 40mm",
+      "price": "279.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "24",
+      "img": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDSILVER_226680be-9ea9-49af-9fe5-e5a3bdcde9e4_1024x1024.png?v=1722509460",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/2_01848e5c-5c81-4160-8bd6-b3bbc925102e_1024x1024.jpg?v=1722509460",
+      "title": "Boyfriend Classic Silver 40mm",
+      "price": "279.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "25",
+      "img": "https://larssonjennings.com/cdn/shop/files/jade_gold_584a7c46-e710-44c7-82d6-17bf344ba2c6_1024x1024.png?v=1722505519",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/jade_ecomm-4_1024x1024.jpg?v=1722505519",
+      "title": "Jade Gold White 36mm",
+      "price": "229.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "26",
+      "img": "https://larssonjennings.com/cdn/shop/files/jade_mixed_1024x1024.png?v=1722505489",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/jade_ecomm-7_1024x1024.jpg?v=1722505489",
+      "title": "Jade Mixed Gold White 36mm",
+      "price": "229.00 USD",
+      "category": " Watches"
+    },
+    {
+      "id": "27",
+      "img": "https://larssonjennings.com/cdn/shop/files/jade_ecomm-9_1024x1024.jpg?v=1722505473",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/001_1024x1024.jpg?v=1722505473",
+      "title": "Jade Mixed Gold Green 36mm",
+      "price": "229.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "28",
+      "img": "https://larssonjennings.com/cdn/shop/files/jade_silver_1024x1024.png?v=1722505537",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/jade_ecomm-15_1024x1024.jpg?v=1722505537",
+      "title": "Jade Silver White 36mm",
+      "price": "229.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "29",
+      "img": "https://larssonjennings.com/cdn/shop/files/jade_grey_rose_1024x1024.jpg?v=1722505456",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/jade_ecomm-17_1024x1024.jpg?v=1722505456",
+      "title": "Jade Mixed Rose Gold Grey 36mm",
+      "price": "229.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "30",
+      "img": "https://larssonjennings.com/cdn/shop/files/jade_rose_1024x1024.png?v=1722505504",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/jade_ecomm-22_1024x1024.jpg?v=1722505504",
+      "title": "Jade Rose Gold White 36mm",
+      "price": "229.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "31",
+      "img": "https://larssonjennings.com/cdn/shop/files/norse_link_onmodel-2_39e11cdb-7102-44cd-b767-c1fadc5bf624_1024x1024.jpg?v=1722505984",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Norse_Link_Gold_Black_34mm_1_728c7f2a-8753-407c-a24a-88f2f4fc055a_1024x1024.jpg?v=1722505984",
+      "title": "Norse Link Gold Black 34mm",
+      "price": "259.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "32",
+      "img": "https://larssonjennings.com/cdn/shop/files/norse_link_black_black_5f16aaf7-d9f4-4c64-b7cb-b2d7e8f6db82_1024x1024.jpg?v=1722506037",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/norse_link_black_black_2_1024x1024.jpg?v=1722506037",
+      "title": "Norse Link Black Black 34mm",
+      "price": "259.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "33",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_10_1024x1024.png?v=1722506330",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Erla_Necklace_1_0ecb8fb9-cb85-4ca5-a72a-3dfd1040345d_1024x1024.jpg?v=1722506330",
+      "title": "Erla Necklace 18ct Gold Plated",
+      "price": "179.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "34",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_37_1024x1024.png?v=1722506314",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Erla_Bracelet_3_ed0991a9-29f2-45ad-8810-d2c51b0f4499_1024x1024.jpg?v=1722506314",
+      "title": "Erla Bracelet 18ct Gold Plated",
+      "price": "119.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "35",
+      "img": "https://larssonjennings.com/cdn/shop/files/Meja_Ring1_c0395408-158c-462d-aa60-1d1d3a2e22c8_1024x1024.png?v=1722507672",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Meja_Ring_3_6eb77307-0dcc-42d5-af22-5d7d8f5644e0_1024x1024.jpg?v=1722507672",
+      "title": "Meja Ring 18ct Gold Plated",
+      "price": "79.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "36",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_68_1024x1024.png?v=1722507755",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Aya_Big_Creole_4_56e34edf-c81a-4e42-ba8f-3857c744b714_1024x1024.jpg?v=1722507755",
+      "title": "Aya Big Creole 18ct Gold Plated",
+      "price": "89.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "37",
+      "img": "https://larssonjennings.com/cdn/shop/files/curb_chain_necklace_1024x1024.gif?v=1722505277",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Curb_Initial_Necklace_1_1024x1024.jpg?v=1722505277",
+      "title": "Curb Initial Necklace 18ct Gold Vermeil",
+      "price": "125.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "38",
+      "img": "https://larssonjennings.com/cdn/shop/files/curb_chain_name_bracelet_1024x1024.png?v=1722505211",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Curb_Name_Bracelet_2_1024x1024.jpg?v=1722505211",
+      "title": "Curb Name Bracelet 18ct Gold Vermeil",
+      "price": "135.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "39",
+      "img": "https://larssonjennings.com/cdn/shop/files/Tuva_Bracelet1_1024x1024.png?v=1722507960",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Tuva_Bracelet_1_1024x1024.jpg?v=1722507960",
+      "title": "Tuva Bracelet 18ct Gold Plated",
+      "price": "99.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "40",
+      "img": "https://larssonjennings.com/cdn/shop/files/bold_initials_necklace_1024x1024.png?v=1722505261",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Bold_Letters_Necklace_3_1024x1024.jpg?v=1722505261",
+      "title": "Bold Letters Necklace 18ct Gold Vermeil",
+      "price": "145.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "41",
+      "img": "https://larssonjennings.com/cdn/shop/files/bold_initials_bracelet_1024x1024.png?v=1722505227",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Bold_Letters_Bracelet_1_1024x1024.jpg?v=1722505228",
+      "title": "Bold Letters Bracelet 18ct Gold Vermeil",
+      "price": "145.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "42",
+      "img": "https://larssonjennings.com/cdn/shop/files/sleek_name_necklace_alva_1024x1024.png?v=1722505292",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Sleek_Name_Necklace_1024x1024.jpg?v=1722505292",
+      "title": "Sleek Name Necklace 18ct Gold Vermeil",
+      "price": "145.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "43",
+      "img": "https://larssonjennings.com/cdn/shop/files/5_5d03b55e-44cf-4bcd-b9e1-a9aab03c5381_1024x1024.png?v=1722505245",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Sleek_Name_Bracelet_1_1024x1024.jpg?v=1722505245",
+      "title": "Sleek Name Bracelet 18ct Gold Vermeil",
+      "price": "125.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "44",
+      "img": "https://larssonjennings.com/cdn/shop/files/letter_signet_ring_1024x1024.gif?v=1722505193",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Letter_Signet_Ring_1_1024x1024.jpg?v=1722505193",
+      "title": "Letter Signet Ring 18ct Gold Vermeil",
+      "price": "125.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "45",
+      "img": "https://larssonjennings.com/cdn/shop/files/Letter_Hoops_LarssonJennings_1024x1024.png?v=1722505175",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Signature_Letter_Hoops_3_1024x1024.jpg?v=1722505175",
+      "title": "Signature Letter Hoops 18ct Gold Vermeil",
+      "price": "125.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "46",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_9_1024x1024.png?v=1722506299",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/anda_onmodel-37_69b29540-ef7d-4cd5-9eac-3ce35d3ca399_1024x1024.jpg?v=1722506299",
+      "title": "Harpa Necklace 18ct Gold Plated",
+      "price": "169.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "47",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_36_1024x1024.png?v=1722506281",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/anda_onmodel-41_791cb093-3462-4126-81a5-e93eb731f2de_1024x1024.jpg?v=1722506281",
+      "title": "Harpa Bracelet 18ct Gold Plated",
+      "price": "99.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "48",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_51_1024x1024.png?v=1722506211",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/anda_onmodel-12_15d242ce-234d-4229-85dd-fd091e1b9a1d_1024x1024.jpg?v=1722506211",
+      "title": "Harpa Ring 18ct Gold Plated",
+      "price": "89.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "49",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_28_1024x1024.png?v=1722507728",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/Harpa_Ring_1_fad94c63-f5f2-45c1-9ac8-df24452b31a3_1024x1024.jpg?v=1722507728",
+      "title": "Harpa Cuff 18ct Gold Plated",
+      "price": "119.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "50",
+      "img": "https://larssonjennings.com/cdn/shop/files/Untitleddesign_80_1024x1024.png?v=1722506296",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/hoops_mixed_model_2_8fd55688-3f2f-44ac-b02a-c0b05e47621d_1024x1024.jpg?v=1722506296",
+      "title": "Tara Hoop 18ct Gold Plated",
+      "price": "139.00 USD",
+      "category": "Jewellery"
+    },
+    {
+      "id": "51",
+      "img": "https://larssonjennings.com/cdn/shop/files/Packshots_460x.png?v=1722508287",
+      "hoverimg": "",
+      "title": "Easy-To-Use Watch Tool",
+      "price": "5.85 USD",
+      "category": "Straps"
+    }
+  ],
+  "Wish-list": [
+    {
+      "id": "1",
+      "img": "https://larssonjennings.com/cdn/shop/files/elevated_-29_cf5250be-065c-4c30-8209-77a898c64b7b_540x.jpg?v=1722507538",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Elevate_mixedgold1_1024x1024.png?v=1722507542",
+      "title": "Boyfriend Mini Elevate Mixed Gold 31mm",
+      "price": "181.35 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "2",
+      "img": "//larssonjennings.com/cdn/shop/files/Untitleddesign_5_1024x1024.png?v=1722505965",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/zodiac_onmodel_web_def726dc-d548-4404-a6ca-14023be601a4_1024x1024.jpg?v=1722505965",
+      "title": "Zodiac Necklace Aries 18ct Gold Plated",
+      "price": "64.35 USD",
+      "category": "Jewelry"
+    },
+    {
+      "id": "5",
+      "img": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Lumous_MixedGold_3_1024x1024.jpg?v=1722505109",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/boyfriend_mini_lumous-mixed2_web_1024x1024.jpg?v=1722505109",
+      "title": "Boyfriend Mini Lumous Mixed Gold 31mm",
+      "price": "200.85 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "6",
+      "img": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Lumous_GoldWhite_3_1024x1024.jpg?v=1722505134",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/boyfriend_mini_lumous-goldwhite1_web_1024x1024.jpg?v=1722505134",
+      "title": "Boyfriend Mini Lumous Mixed Gold Green 31mm",
+      "price": "309.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "9",
+      "img": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Lumous_Silver_3_1024x1024.jpg?v=1722505148",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/boyfriend_mini_lumous-silver1_web_1024x1024.jpg?v=1722505148",
+      "title": "Boyfriend Mini Lumous Silver 31mm",
+      "price": "309.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "24",
+      "img": "https://larssonjennings.com/cdn/shop/files/BOYFRIENDSILVER_226680be-9ea9-49af-9fe5-e5a3bdcde9e4_1024x1024.png?v=1722509460",
+      "hoverimg": "https://larssonjennings.com/cdn/shop/files/2_01848e5c-5c81-4160-8bd6-b3bbc925102e_1024x1024.jpg?v=1722509460",
+      "title": "Boyfriend Classic Silver 40mm",
+      "price": "279.00 USD",
+      "category": "Watches"
+    },
+    {
+      "id": "1",
+      "img": "https://larssonjennings.com/cdn/shop/files/elevated_-29_cf5250be-065c-4c30-8209-77a898c64b7b_540x.jpg?v=1722507538",
+      "hoverimg": "//larssonjennings.com/cdn/shop/files/Boyfriend_Mini_Elevate_mixedgold1_1024x1024.png?v=1722507542",
+      "title": "Boyfriend Mini Elevate Mixed Gold 31mm",
+      "price": "181.35 USD",
+      "category": "Watches"
+    }
+  ]
+}
