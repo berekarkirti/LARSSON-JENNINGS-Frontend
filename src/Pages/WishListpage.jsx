@@ -10,7 +10,7 @@ const WishListpage = () => {
 
     const getProduct = () => {
         axios
-            .get("http://localhost:3000/Wish-list")
+            .get("https://larsson-jennings-backend.onrender.com/Wish-list")
             .then((res) => {
                 setWishlist(res.data);
             })

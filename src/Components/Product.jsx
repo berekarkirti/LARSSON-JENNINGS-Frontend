@@ -1,5 +1,3 @@
-
-
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
@@ -13,7 +11,7 @@ const Product = ({ sortOption, category }) => {
     const [wishlist, setWishlist] = useState([]);
 
     const getDataFromServer = () => {
-        axios.get('http://localhost:3000/Sale-product')
+        axios.get('https://larsson-jennings-backend.onrender.com/Sale-product')
             .then((res) => {
                 setProducts(res.data);
             })
@@ -56,7 +54,7 @@ const Product = ({ sortOption, category }) => {
     }, [sortOption, category, products]);
 
     const handleLikeClick = (product) => {
-        axios.post("http://localhost:3000/Wish-list", product)
+        axios.post("https://larsson-jennings-backend.onrender.com/Wish-list", product)
 
             .then((res) => {
                 // console.log(res.data);

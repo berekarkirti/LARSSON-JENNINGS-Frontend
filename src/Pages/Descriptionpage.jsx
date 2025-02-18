@@ -15,7 +15,7 @@ const Descriptionpage = () => {
     const { addToCart } = useCart(); 
 
     useEffect(() => {
-        axios.get(`http://localhost:3000/Sale-product/${id}`)
+        axios.get(`https://larsson-jennings-backend.onrender.com/Sale-product/${id}`)
             .then((res) => {
                 setProduct(res.data);
             })
