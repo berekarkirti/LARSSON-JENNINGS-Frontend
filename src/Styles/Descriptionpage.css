@@ -1,0 +1,184 @@
+body {
+    overflow-x: hidden;
+}
+
+.custom-img {
+    height: calc(100% + 50px); 
+    width: calc(100% + 50px);  
+    object-fit: cover;         
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+}
+
+.wrist-image {
+    width: 100%;
+    height: auto;
+}
+
+.trustpilot {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.product-title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+  
+}
+
+.price {
+    font-size: 20px;
+}
+
+.original-price {
+    color: #000;
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.discounted-price {
+    font-weight: normal;
+    text-decoration: line-through;
+    color: #33333357;
+}
+
+.saving span {
+    color: red;
+    font-size: 16px;
+}
+
+.payment-options a {
+    text-decoration: underline;
+    font-size: 14px;
+    color: #000; 
+}
+
+.features {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 8%;
+    color: #33333392;
+    font-size: 16px;
+}
+
+.features li {
+    margin-bottom: 10px;
+}
+
+.additional-details h5 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.complete-the-look h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.product-suggestion {
+    text-align: center;
+}
+
+.product-suggestion img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-suggestion p {
+    margin: 0;
+}
+
+.suggestion-price {
+    font-size: 14px;
+    color: #f00;
+    margin-bottom: 10px;
+}
+
+.original-suggestion-price {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.btn-dark {
+    background-color: #000; 
+    color: #fff;
+    border: none;
+    padding: 13px 170px;
+    font-size: 16px;
+}
+
+.btn-dark:hover {
+    background-color: #333; 
+}
+
+.btn-primary {
+    background-color: #4b21f4; 
+    color: #fff;
+    border: none;
+    padding: 13px 160px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #3a1db2; 
+}
+
+.btn-outline-dark {
+    border: 1px solid #000;
+    color: #000;
+    background: none;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.btn-outline-dark:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 0 15px;
+}
+
+.mt-5 {
+    margin-top: 5rem;
+}
+
+.mb-4, .mb-2 {
+    margin-bottom: 1.5rem;
+}
+
+.additional-details{
+    margin-top: 9%;
+}
+.additional-details h5 {
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.additional-details h5:hover {
+    text-decoration: none;
+}
+
+.additional-details h5 span{
+    opacity: 0;
+    color: #00000099;
+  
+}
+
+.additional-details h5 span:hover{
+    opacity: 1;
+}

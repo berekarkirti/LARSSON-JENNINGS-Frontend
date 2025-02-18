@@ -1,0 +1,106 @@
+.footer {
+  background-color: #f8f8f8;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-top {
+  max-width: 800px;
+  margin: 0 auto 40px auto;
+}
+
+.brandName {
+  margin-top: 8%;
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.offerText {
+  color:black;
+  margin-bottom: 50px;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;;
+}
+
+.input {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius:0;
+  width: 550px;
+}
+
+.button {
+  padding: 10px 20px;
+  border:2px solid black;
+  border-left: none;
+  border-radius: 0 4px 4px 0;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.footer-bottom {
+  margin-top: 6%;
+  display: flex;
+  justify-content: space-around;
+  max-width: 1500px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.section {
+  flex: 1;
+  margin: 20px;
+  min-width: 200px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.socialList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.ratings {
+  margin-top: 20px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.image-slider {
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-slider img {
+  margin-right: 99%;
+  width: auto;
+  height: 100%;
+  animation: rotate360 8s infinite linear;
+}
+
+@keyframes rotate360 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

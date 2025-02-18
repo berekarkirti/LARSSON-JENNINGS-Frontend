@@ -1,0 +1,86 @@
+#ImageCard {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 20px;
+    margin: 20px;
+}
+
+.productimage-title {
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 0.6%;
+}
+
+.productimage-title h3 {
+    font-size: 28px;
+    font-weight: 400;
+    margin: 0;
+    color: #333333c8;
+}
+
+.productimage-title p {
+    font-size: 16px;
+    color: #333333;
+}
+
+.image-card {
+    height: 420px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.image-card img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    transition: all 0.9s ease-in-out;
+    object-fit: cover;
+}
+
+.image-card:hover img {
+    transform: scale(1.2);
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transition: all 0.8s ease-in-out;
+    opacity: 0;
+}
+
+.image-card:hover .overlay {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+.load-more-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.load-more-button {
+    border: 1px solid black;
+    color: black;
+    font-size: 14px;
+    border-radius: 0;
+    background-color: white;
+    padding: 10px 25px;
+    cursor: pointer;
+}

@@ -1,0 +1,77 @@
+#kirti-login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  background-color: #f8f9fa; 
+  height: 600px;
+  width: 700px;
+  margin-top: 5%;
+} 
+
+h1 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: #333; 
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff; 
+  padding: 20px;
+  border-radius: 8px; 
+}
+
+.forgot-password {
+  font-size: 0.8em;
+  color: #23272b; 
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.form-control {
+  height: 50px;
+  border-radius: 4px;
+  width: 100%;
+  border: 1px solid #ced4da; 
+  margin-bottom: 15px; 
+}
+
+.form-control:focus {
+  border-color: #23272b;
+  box-shadow: 0 0 0 0.2rem#23272b; 
+}
+
+.btn-dark {
+  background-color: #343a40;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: background-color 0.3s ease; 
+}
+
+.btn-dark:hover {
+  background-color: #23272b;
+}
+
+.create-account,
+.return-store {
+  font-size: 0.9em;
+  color: #23272b; 
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.create-account:hover,
+.return-store:hover {
+  text-decoration: none; 
+}

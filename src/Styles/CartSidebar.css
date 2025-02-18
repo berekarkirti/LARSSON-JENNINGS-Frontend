@@ -1,0 +1,79 @@
+.cart-sidebar {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 100%;
+  max-width: 400px;
+  height: 100%;
+  background-color: white;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+  transition: right 0.3s ease;
+  z-index: 1050;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.cart-sidebar.open {
+  right: 0;
+}
+
+.close-btn {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.cart-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.warranty {
+  background-color: #d9f5b1;
+  padding: 10px 0;
+  margin: 10px 0;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.message {
+  background-color: #f0fff4;
+  padding: 10px 0;
+  margin: 10px 0;
+  font-size: 14px;
+  border: 1px solid #d9f5b1;
+}
+
+.product-img {
+  width: 50px;
+}
+
+.product-info {
+  flex-grow: 1;
+}
+
+.product-actions {
+  margin-top: 5px;
+}
+
+.product-price {
+  font-size: 18px;
+}
+
+.remove-btn {
+  font-size: 20px;
+  cursor: pointer;
+  color: rgba(44, 44, 44, 0.737);
+}
+
+.Order {
+  background-color: #d9f5b1;
+  padding: 10px 0;
+  margin: 10px 0;
+  border: 1.5px solid #b0db73;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.Order:hover{
+  background-color: #bbf768d0;
+}

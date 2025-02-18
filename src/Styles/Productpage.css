@@ -1,0 +1,100 @@
+
+
+.product-page {
+  padding: 50px 0;
+  background-color: #fff;
+}
+
+.banner {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 48px;
+  font-weight: 300;
+}
+
+.banner p {
+  font-size: 16px;
+  margin-top: 4%;
+}
+
+.category-button {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.category-button:hover {
+  background-color: #f8f8f8;
+}
+
+.sort-filter {
+  font-size: 16px;
+  color: gray;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.offcanvas {
+  width: 300px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.offcanvas.show {
+  transform: translateX(0);
+}
+
+.offcanvas-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.offcanvas-body {
+  padding: 1rem;
+  border-right: 4px solid black;
+}
+
+.filter-section {
+  padding: 1rem;
+}
+
+.filter-section h6 {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.filter-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.filter-options button {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+}
+
+.filter-options button:hover {
+  background-color: black;
+  color: white;
+}
+
+.clear-all {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  width: 100%;
+}

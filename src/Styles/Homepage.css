@@ -1,0 +1,262 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 0%;
+}
+
+/* ----------------------------navbar-part-start ----------------------------*/
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+  background-color: whitesmoke;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.col-4 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-item a {
+  color: black;
+  padding: 7px 16.2px;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 600
+}
+
+.navbar-icons {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  gap: 20px;
+}
+
+.icon {
+  font-size: 30px;
+  color: black;
+  cursor: pointer;
+}
+/*---------------------------- navbar-part-end ----------------------------*/
+
+/*---------------------------- front-image-start  ------------------------------- */
+.front-container {
+  display: flex;
+  background-color: rgb(151, 97, 73);
+}
+
+.front-content {
+  color: white;
+  font-size: 30px;
+  padding: 85px;
+  margin-top: 5%;
+}
+
+.letter {
+  letter-spacing: 4px;
+  margin-bottom: 2%;
+}
+
+.front-content p {
+  font-size: 84px;
+}
+
+.front-content .discount {
+  font-size: 30px;
+  margin-bottom: 8%;
+}
+
+.front-content button {
+  padding: 19px 65px;
+  font-size: 20px;
+  color: white;
+  font-weight: 400;
+  border: 1px solid white;
+  background-color: rgba(114, 50, 4, 0);
+  transition: all ease-in-out 0.8s;
+}
+
+.front-content button:hover {
+  background-color: black;
+  border: none;
+}
+
+.col-6 img {
+  height: 900px;
+}
+/*---------------------------- front-image-end ------------------------------- */
+
+/*---------------------------- promo-start  ------------------------------- */
+.promo-section {
+  padding: 20px 0;
+  background-color: #f8f8f8;
+}
+
+.promo-item {
+  padding: 20px 0;
+}
+
+.promo-icon {
+  font-size: 45px;
+  margin-bottom: 10px;
+  color: rgba(0, 0, 0, 0.759);
+}
+
+.promo-item p {
+  margin: 0;
+  font-size: 1rem;
+  color: #000;
+}
+/*---------------------------- promo-end ------------------------------- */
+
+/*---------------------------- slider-part ------------------------------- */
+.slider-part {
+  margin-top: 5%;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.759);
+}
+
+.slider-part strong {
+  font-size: 45px;
+  font-family: sans-serif;
+}
+/*---------------------------- slider-end  ------------------------------- */
+
+/*---------------------------- banner  ------------------------------- */
+.banner {
+  display: flex;
+  overflow: hidden;
+  white-space: nowrap;
+  background-color: #fff; 
+  padding: 10px 0; 
+}
+
+.banner-text {
+  display: inline-block;
+  padding: 0 20px; 
+  animation: scroll 30s linear infinite; 
+  font-size: 30px; 
+  color: #000000c9;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+/*---------------------------- banner-end ------------------------------- */
+
+/*---------------------------- no-gutters-part ------------------------------- */
+.product-banner {
+  position: relative;
+  overflow: hidden;
+}
+
+.product-banner img {
+  width: 1000px;
+  height: 920px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.521); 
+}
+
+.product-banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  z-index: 2;
+}
+
+.product-banner-text h4 {
+  font-size: 23px;
+  font-weight: 400;
+  
+}
+
+.product-banner-text strong {
+  font-size: 65px;
+  font-weight: 600;
+ 
+}
+
+.product-banner-text p {
+  margin-top: 16%;
+  font-size: 28px;
+  margin-bottom: 1em;
+}
+
+.product-banner-text .shop-now {
+  display: inline-block;
+  padding: 17px 50px;
+  border: 1px solid white;
+  color: white;
+  text-decoration: none;
+  font-size: 1em;
+  border-radius: 0;
+  transition: background-color 0.8s, color 0.8s;
+}
+
+.product-banner-text .shop-now:hover {
+  background-color: black;
+}
+/*---------------------------- no-gutters-end ------------------------------- */
+
+/*---------------------------- Affirm-banner ------------------------------- */
+.Affirm-banner {
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  color: rgba(40, 40, 40, 0.918); 
+  font-size: 64px;
+  margin-bottom: 5%;
+}
+
+.Affirm-banner-text {
+  display: inline-block;
+  padding-left: 100%;
+  animation: scroll 80s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+      transform: translateX(100%);
+  }
+  100% {
+      transform: translateX(-100%);
+  }
+}
+/*---------------------------- Affirm-banner-end ------------------------------- */
